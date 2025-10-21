@@ -46,28 +46,22 @@ git push -u origin main
 Nu kun je je script laden met:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JOUW-USERNAME/inovoproductions/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
 ```
 
-**LET OP**: Vervang `JOUW-USERNAME` met je GitHub gebruikersnaam!
-
----
-
-## Stap 4: Loadstring Link Updaten
-
-1. Open `loader.lua`
-2. Vervang **beide** keren `JOUW-USERNAME` met je echte GitHub username
-3. Upload de gewijzigde `loader.lua` opnieuw naar GitHub
+**Perfect!** De URL is al correct ingesteld!
 
 ---
 
 ## 🎯 Definitieve Loadstring
 
-Als je username bijvoorbeeld **"inovogaming"** is, dan wordt je loadstring:
+Je loadstring is klaar om te gebruiken:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/inovogaming/inovoproductions/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
 ```
+
+Kopieer dit en plak het in je executor!
 
 ---
 

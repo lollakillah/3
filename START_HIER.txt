@@ -1,0 +1,146 @@
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║           INOVO PRODUCTIONS - SCRIPT HUB v1.0                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🎮 KLAAR OM TE GEBRUIKEN!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 JOUW LOADSTRING:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 HOE TE GEBRUIKEN:
+
+1. Open je Roblox executor (Synapse X, KRNL, Fluxus, etc.)
+2. Join een Roblox game
+3. Attach/inject je executor
+4. Kopieer de loadstring hierboven
+5. Plak in je executor
+6. Klik Execute
+7. Wacht 2-3 seconden
+8. Geniet van Inovo Productions! ✨
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⌨️ KEYBINDS:
+
+• K = Toggle UI aan/uit
+• F9 = Console (voor errors)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ FEATURES:
+
+🏠 Home Tab
+   → Welkom informatie
+   → Discord link
+   → Update checker
+
+🌐 Universal Scripts
+   → Infinite Yield (Admin)
+   → Dark Dex V3 (Explorer)
+   → Simple Spy (Remote spy)
+   → Walk Speed slider
+   → Jump Power slider
+   → Infinite Jump toggle
+
+🍇 Blox Fruits
+   → Zen Hub
+   → Hoho Hub
+
+🔫 Arsenal (Coming Soon)
+🐾 Adopt Me (Coming Soon)
+🚔 Jailbreak (Coming Soon)
+🐶 Pet Simulator X (Coming Soon)
+
+⚙️ Settings
+   → Custom keybind
+   → Destroy interface
+   → Rejoin server
+   → Server hop
+   → Auto-save configuratie
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 BESTANDEN IN JE REPOSITORY:
+
+✅ main.lua              - Hoofd script met alle features
+✅ loader.lua            - Loader voor GitHub
+✅ SOURCE.LUA            - Rayfield library (NIET uploaden!)
+✅ README.md             - Hoofddocumentatie
+✅ QUICK_START.md        - Snelstartgids
+✅ INSTALLATIE.md        - GitHub upload instructies
+✅ FEATURES.md           - Complete feature lijst
+✅ CHANGELOG.md          - Versie geschiedenis
+✅ CONTRIBUTING.md       - Voor contributors
+✅ GAME_TEMPLATE.lua     - Template voor nieuwe games
+✅ LICENSE               - MIT License
+✅ .gitignore            - Git ignore file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ BELANGRIJK:
+
+• SOURCE.LUA hoef je NIET te uploaden naar GitHub!
+  (De script gebruikt de online versie van Rayfield)
+
+• Je GitHub repository: https://github.com/lollakillah/3
+
+• Bestanden om te uploaden:
+  ✓ main.lua
+  ✓ loader.lua
+  ✓ README.md
+  ✓ QUICK_START.md
+  ✓ INSTALLATIE.md
+  ✓ FEATURES.md
+  ✓ CHANGELOG.md
+  ✓ CONTRIBUTING.md
+  ✓ GAME_TEMPLATE.lua
+  ✓ LICENSE
+  ✓ .gitignore
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 TROUBLESHOOTING:
+
+❌ Script laadt niet?
+   → Check of repository PUBLIC is
+   → Wacht 1-2 minuten na uploaden
+   → Check console (F9) voor errors
+
+❌ UI niet zichtbaar?
+   → Druk op K
+   → Re-execute het script
+
+❌ "404 Not Found"?
+   → Check of alle bestanden geupload zijn
+   → Wacht even (GitHub cache)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 DOCUMENTATIE:
+
+Lees QUICK_START.md voor een snelle start guide
+Lees INSTALLATIE.md voor GitHub upload instructies
+Lees FEATURES.md voor alle features
+Lees GAME_TEMPLATE.lua om nieuwe games toe te voegen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ ALLES IS KLAAR!
+
+Je script hub is compleet en klaar om te gebruiken!
+Upload de bestanden naar GitHub en test je loadstring!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Made with ❤️ by Inovo Productions
+Version 1.0 | October 2025
+
+Veel plezier! 🎉
+

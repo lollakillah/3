@@ -45,7 +45,7 @@
 Copy and paste this into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JOUW-USERNAME/inovoproductions/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
 ```
 
 ### Method 2: Local Execution

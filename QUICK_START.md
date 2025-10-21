@@ -17,10 +17,10 @@
 Kopieer en plak dit in je executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JOUW-USERNAME/inovoproductions/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
 ```
 
-**Vergeet niet** `JOUW-USERNAME` te vervangen met je GitHub username!
+**Klaar om te gebruiken!** ✅
 
 ---
 

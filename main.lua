@@ -4,8 +4,37 @@
     Version 1.0
 ]]
 
--- Load Rayfield Library
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+-- Load Rayfield Library with error handling
+local Rayfield
+local RayfieldURLs = {
+    'https://sirius.menu/rayfield',
+    'https://raw.githubusercontent.com/shlexware/Rayfield/main/source',
+    'https://raw.githubusercontent.com/lollakillah/3/main/SOURCE.LUA'
+}
+
+for i, url in ipairs(RayfieldURLs) do
+    local success, result = pcall(function()
+        return loadstring(game:HttpGet(url))()
+    end)
+    
+    if success and result then
+        Rayfield = result
+        print("✅ Rayfield loaded from URL #" .. i)
+        break
+    else
+        warn("⚠️ Failed to load Rayfield from URL #" .. i .. ": " .. tostring(result))
+    end
+end
+
+if not Rayfield then
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Inovo Productions";
+        Text = "Failed to load Rayfield library!";
+        Duration = 5;
+    })
+    error("Could not load Rayfield from any URL")
+    return
+end
 
 -- Create Main Window
 local Window = Rayfield:CreateWindow({

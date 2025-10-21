@@ -2,7 +2,7 @@
     Inovo Productions Script Hub - Loader
     
     Load this script with:
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/JOUW-USERNAME/inovoproductions/main/loader.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/loader.lua"))()
 ]]
 
 -- Check if already loaded
@@ -22,7 +22,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 
 -- Load the main script
 local success, err = pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/JOUW-USERNAME/inovoproductions/main/main.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lollakillah/3/main/main.lua"))()
 end)
 
 if not success then
